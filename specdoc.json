@@ -1,0 +1,19 @@
+{
+    "json-schema": [
+        "https://raw.github.com/specsie/foundation/master/schema.json"
+    ], 
+    "specdoc": {
+        "spec": ""
+    }, 
+    "includes": [
+    ], 
+    "inherits": [
+    ], 
+    "constraints": [
+        {
+            "constraint": "A doc which conforms to this spec MAY NOT violate any constraint in this spec's /build/spec."
+        }
+    ], 
+    "description": [
+    ]
+}
